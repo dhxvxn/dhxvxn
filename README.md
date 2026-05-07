@@ -1,7 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Smart CCTV, an AI-powered surveillance system for detection, tracking, re-identification, zones, and multi-camera monitoring; GitRun, a Docker-based tool that clones, detects, and runs GitHub projects automatically,  an SSH honeypot for cybersecurity research and  a RAG-based tool for extracting answers from college notes.
+
 <br>👯 I’m looking to collaborate on AI, cybersecurity, computer vision, automation, and developer tools, especially projects involving intelligent monitoring systems, automated project execution, or RAG-based applications.
+
 <br>🌱 I’m currently learning I’m currently learning computer vision, multi-camera tracking, cybersecurity fundamentals, Docker-based automation, AI agents, and RAG-based application development.
+
 <br>💬 Ask me about Ask me about AI automation, computer vision, cybersecurity fundamentals, RAG-based tools, Smart CCTV systems, GitRun, Python, Java, C++, and n8n automation.<br>
 
 
